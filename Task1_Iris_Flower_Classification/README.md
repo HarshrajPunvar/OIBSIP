@@ -61,7 +61,3 @@ The KNN model successfully classified iris flowers into Setosa, Versicolor, and 
 ## Author
 
 Harshraj Punvar
-
-## Internship
-
-Oasis Infobyte AI/ML Internship - Task 1
